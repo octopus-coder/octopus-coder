@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luis Enrique
-- 👀 I’m interested in high quality code, leveraging my React, Typescript skills to craft frontend experiences that users will love. 
+- 👀 I’m interested in high quality code, leveraging my React, Typescript, NodeJS/PHP skills to craft full-stack experiences that users will love. 
 - 🌱 I’m currently learning JAMStack, Stripe, FaunaDB, NextJS.
 - 📫 How to reach me luisen.goscas@gmail.com
 
