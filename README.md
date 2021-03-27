@@ -1,6 +1,6 @@
 👋 Hi, I’m Luis Enrique
 
-👀 I’m interested in high quality code, leveraging my React, Typescript, NodeJS/PHP skills to craft full-stack experiences that users will love. 
+👀 I’m interested in high quality code, leveraging my React, Typescript, NodeJS, PHP skills to craft beautiful fullStack experiences that users will love. 
 
 🌱 I’m currently learning JAMStack, Stripe, FaunaDB, NextJS.
 
