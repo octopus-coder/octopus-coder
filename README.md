@@ -16,21 +16,15 @@ I’m currently learning JAMStack, Stripe, FaunaDB, NextJS. 🌱   
 
 Visitors to my github profile: 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=octopus-coder.visitor-badge)
+![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=octopus-coder.visitor-badge)
 
 
 Here is a project for some React / Typescript FrontEnd code sample:
 
   <details>
-
 <summary>Code Sample</summary>
-
 https://github.com/octopus-coder/music-player-react-typescript
-
-
 ![Library On](https://github.com/octopus-coder/music-player-react-typescript/raw/master/music_player_library.png?raw=true"Title")
-  
-  
   </details>
 
 
