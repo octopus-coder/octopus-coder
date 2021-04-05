@@ -33,12 +33,12 @@ I’m currently learning the JAMStack, Stripe, FaunaDB, NextJS. 🌱   
 
 ### 🧑🏻‍💻 &nbsp; Code sample:
 
-Here is a music player I built in React / Typescript / Hooks / Context / Styled Components:
-
 <details>
-<summary>React Typescript Music Player</summary>
+<summary>React Music Player [React / Typescript / Hooks / Context / Styled Components]: </summary>
+  
   
 https://github.com/octopus-coder/music-player-react-typescript
+
 ![Library On](https://github.com/octopus-coder/music-player-react-typescript/raw/master/music_player_library.png?raw=true"Title")
  
  </details>
@@ -46,7 +46,8 @@ https://github.com/octopus-coder/music-player-react-typescript
 
 
 <details>
-<summary>Telegram Pokemon Bot</summary>
+<summary>Telegram Pokemon Bot [NodeJS / Heroku / Telegram API ]</summary>
+  
   Here is a Telegram bot I built in NodeJS hosted in Heroku* as a serverless function using the Telegram API, creating an interactive game for guessing the pokemon. 
   
 https://github.com/octopus-coder/TelegramBot
@@ -58,7 +59,7 @@ https://github.com/octopus-coder/TelegramBot
 
 
 <details>
-<summary>Blog Post About Genetic Algorithms with C++ </summary>
+<summary>Blog post about Genetic Algorithms with C++ </summary>
 https://luisgocas.github.io/blog/journal/genetic-algorithms.html
  </details>
 
