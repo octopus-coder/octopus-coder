@@ -18,6 +18,17 @@ Visitors to my github profile:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=octopus-coder.visitor-badge)
 
+
+Here is a project for some React / FrontEnd code sample:
+
+https://github.com/octopus-coder/music-player-react-typescript
+
+
+![Library On](https://github.com/octopus-coder/music-player-react-typescript/raw/master/music_player_library.png?raw=true"Title")
+
+
+
+
 <!---
 octopus-coder/octopus-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
