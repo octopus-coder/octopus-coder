@@ -5,7 +5,12 @@ My name is Luis Enrique. I am an engineer based in Sao Paolo.
 
 I’m interested in high quality code, leveraging my React, Typescript, NodeJS, PHP skills to craft beautiful fullStack experiences. 👀       
 
-I’m currently learning JAMStack, Stripe, FaunaDB, NextJS. 🌱       
+I’m currently learning JAMStack, Stripe, FaunaDB, NextJS. 🌱     
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=octopus-coder.visitor-badge)
+
+
 
 ## 🚀 My skills [🔝](#welcome-badges-4-readmemd-profile)
 
