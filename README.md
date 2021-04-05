@@ -36,7 +36,7 @@ I’m currently learning the JAMStack, Stripe, FaunaDB, NextJS. 🌱   
 Here is a project for some React / Typescript FrontEnd code sample:
 
   <details>
-<summary>Code Sample</summary>
+<summary>React Typescript Music Player</summary>
   
 https://github.com/octopus-coder/music-player-react-typescript
 ![Library On](https://github.com/octopus-coder/music-player-react-typescript/raw/master/music_player_library.png?raw=true"Title")
@@ -44,6 +44,16 @@ https://github.com/octopus-coder/music-player-react-typescript
  </details>
 
 
+Here is an old backend code I built in NodeJS hosted in Heroku* as a serverless function using the Telegram API, for a mini guess-the-pokemon interaction game.
+
+<details>
+<summary>Telegram Pokemon Bot</summary>
+  
+https://github.com/octopus-coder/TelegramBot
+![Library On](https://github.com/octopus-coder/TelegramBot/raw/master/telegram_desktop_pokebot.png)
+ 
+ * (550hours every month)
+ </details>
 
 
 
