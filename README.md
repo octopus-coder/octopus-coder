@@ -3,7 +3,7 @@
 
 My name is Luis Enrique. I am an engineer based in Sao Paolo. 🇧🇷
 
-I’m interested in building high quality code, leveraging my React, Typescript, NodeJS, PHP skills to craft beautiful fullStack experiences. 🏆     
+I’m interested in building high quality code, leveraging my React, Typescript, NodeJS, PHP skills to craft beautiful fullstack experiences. 🏆     
 
 I’m currently learning the JAMStack, Stripe, FaunaDB, NextJS. 🌱     
 
