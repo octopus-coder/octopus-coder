@@ -44,7 +44,7 @@ https://github.com/octopus-coder/music-player-react-typescript
  </details>
 
 
-Here is a backend code I built in my spare time in NodeJS hosted in Heroku* as a serverless function using the Telegram API, for a mini guess-the-pokemon interaction game.
+Here is a Telegram bot I built in NodeJS hosted in Heroku* as a serverless function using the Telegram API, creating an interactive game for guessing the pokemon. 
 
 <details>
 <summary>Telegram Pokemon Bot</summary>
