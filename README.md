@@ -14,10 +14,18 @@ I’m currently learning JAMStack, Stripe, FaunaDB, NextJS. 🌱   
 
 
 
-Visitors to my github profile: 
+
+
+### 📫 &nbsp; How to reach me:
+
+<a href="mailto:luisen.goscas@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+
+### 🤝 &nbsp; Profile Visitors:
 
 ![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=octopus-coder.visitor-badge)
 
+
+### 🧑🏻‍💻 &nbsp; Code sample:
 
 Here is a project for some React / Typescript FrontEnd code sample:
 
