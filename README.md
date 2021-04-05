@@ -1,12 +1,11 @@
-👋       Hi, I’m Luis Enrique
 
-👀       I’m interested in high quality code, leveraging my React, Typescript, NodeJS, PHP skills to craft beautiful fullStack experiences that users will love. 
+# Hello everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-🌱       I’m currently learning JAMStack, Stripe, FaunaDB, NextJS.
+My name is Luis Enrique. I am an engineer based in Sao Paolo.
 
-📫       How to reach me luisen.goscas@gmail.com
+I’m interested in high quality code, leveraging my React, Typescript, NodeJS, PHP skills to craft beautiful fullStack experiences. 👀       
 
-
+I’m currently learning JAMStack, Stripe, FaunaDB, NextJS. 🌱       
 
 ## 🚀 My skills [🔝](#welcome-badges-4-readmemd-profile)
 
