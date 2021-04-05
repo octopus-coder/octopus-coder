@@ -19,7 +19,7 @@ Visitors to my github profile:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=octopus-coder.visitor-badge)
 
 
-Here is a project for some React / FrontEnd code sample:
+Here is a project for some React / Typescript FrontEnd code sample:
 
 https://github.com/octopus-coder/music-player-react-typescript
 
