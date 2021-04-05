@@ -44,12 +44,13 @@ https://github.com/octopus-coder/music-player-react-typescript
  </details>
 
 
-Here is a Telegram bot I built in NodeJS hosted in Heroku* as a serverless function using the Telegram API, creating an interactive game for guessing the pokemon. 
 
 <details>
 <summary>Telegram Pokemon Bot</summary>
+  Here is a Telegram bot I built in NodeJS hosted in Heroku* as a serverless function using the Telegram API, creating an interactive game for guessing the pokemon. 
   
 https://github.com/octopus-coder/TelegramBot
+
 ![Library On](https://github.com/octopus-coder/TelegramBot/raw/master/telegram_desktop_pokebot.png)
  
  Is currently live in Heroku, hosted for the first 550 hours of every month (until ~23rd of each month)
