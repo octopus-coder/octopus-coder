@@ -56,6 +56,10 @@ https://github.com/octopus-coder/TelegramBot
  </details>
 
 
+<details>
+<summary>Blog Post About Genetic Algorithms with C++ </summary>
+https://luisgocas.github.io/blog/journal/genetic-algorithms.html
+ </details>
 
 <!---
 octopus-coder/octopus-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
