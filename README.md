@@ -21,10 +21,18 @@ Visitors to my github profile:
 
 Here is a project for some React / Typescript FrontEnd code sample:
 
+  <details>
+
+<summary>Code Sample</summary>
+
 https://github.com/octopus-coder/music-player-react-typescript
 
 
 ![Library On](https://github.com/octopus-coder/music-player-react-typescript/raw/master/music_player_library.png?raw=true"Title")
+  
+  
+  </details>
+
 
 
 
