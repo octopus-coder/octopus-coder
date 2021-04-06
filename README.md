@@ -37,6 +37,8 @@ I’m currently learning the JAMStack, Stripe, FaunaDB, NextJS. 🌱   
 <summary>React Music Player [React / Typescript / Hooks / Context / Styled Components]: </summary>
   
   
+Hosted using Netlify live here: https://adoring-kalam-4dcc41.netlify.app/
+
 https://github.com/octopus-coder/music-player-react-typescript
 
 ![Library On](https://github.com/octopus-coder/music-player-react-typescript/raw/master/music_player_library.png?raw=true"Title")
