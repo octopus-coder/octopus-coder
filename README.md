@@ -5,7 +5,7 @@ My name is Luis Enrique. I am an engineer based in Sao Paolo. 🇧🇷
 
 I’m interested in building high quality code, leveraging my React, Typescript, NodeJS, PHP skills to craft beautiful fullstack experiences. 🏆     
 
-I’m currently learning the Chakra-UI, React-Query & NextJS. 🌱     
+I’m currently learning Chakra-UI, React-Query & NextJS. 🌱     
 
 
 ## 🚀 My skills [🔝](#welcome-badges-4-readmemd-profile)
