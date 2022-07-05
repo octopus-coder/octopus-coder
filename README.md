@@ -34,10 +34,10 @@ I’m currently learning Chakra-UI, React-Query & NextJS. 🌱   
 ### 🧑🏻‍💻 &nbsp; Code sample:
 
 <details>
-<summary>React Music Player [React / Typescript / Hooks / Context / Styled Components]: </summary>
+<summary>React Music Player [React / Typescript / Hooks / Context / Styled Components / NextJS]: </summary>
   
   
-Hosted using Netlify live here: https://adoring-kalam-4dcc41.netlify.app/
+Hosted using Vercel live here: https://music-player-react-typescript.vercel.app/
 
 https://github.com/octopus-coder/music-player-react-typescript
 
